@@ -69,5 +69,8 @@ The dashboard includes:
 
 ## 📬 Contact
 
-For queries or feedback, feel free to reach out to me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mufti-jazim-8326a4342/)).
+## 📬 Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mufti-jazim-8326a4342/) for feedback, collaboration, or any queries related to this project.
+
 
